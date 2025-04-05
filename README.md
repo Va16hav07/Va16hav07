@@ -136,7 +136,13 @@
 </h1>
 
 <div align="center">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Va16hav07/Va16hav07/output/github-contribution-grid-snake.svg" />
+  <!-- Using an animated contribution graph alternative -->
+  <a href="https://github.com/Va16hav07">
+    <img alt="Snake Animation" src="https://github.com/Va16hav07/Va16hav07/blob/output/github-contribution-grid-snake.svg" />
+  </a>
+  
+  <!-- Fallback option if the snake animation doesn't load -->
+  <img width="95%" alt="Va16hav07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Va16hav07&bg_color=000b1e&color=0099ff&line=0077B5&point=FFFFFF&area=true&area_color=003b7a&hide_border=true&radius=16" />
 </div>
 
 <div align="center">
