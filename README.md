@@ -136,11 +136,7 @@
 </h1>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Va16hav07/Va16hav07/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Va16hav07/Va16hav07/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Va16hav07/Va16hav07/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/Va16hav07/Va16hav07/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
