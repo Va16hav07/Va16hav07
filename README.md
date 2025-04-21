@@ -136,10 +136,8 @@
 </h1>
 
 <div align="center">
-  <!-- Replace with a static contribution image that definitely works -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%">
   
-  <!-- In case the above doesn't work, this will still show -->
   <img width="95%" alt="Va16hav07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Va16hav07&bg_color=000b1e&color=0099ff&line=0077B5&point=FFFFFF&area=true&area_color=003b7a&hide_border=true&radius=16" />
 </div>
 
