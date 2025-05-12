@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:0099FF,100:00BFFF&height=250&section=header&text=Vaibhav%20Kumawat&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Flutter%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,50:0099FF,100:00BFFF&height=250&section=header&text=Vaibhav%20Kumawat&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Enthusiast%20|%20Flutter%20Enthusiast%20|%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=50" width="100%"/>
 </p>
 
 <div align="center">
@@ -35,7 +35,7 @@
   <img align="right" height="270px" width="350px" alt="GIF" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif"/>
   <div>
     <p>
-      <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="20"> I'm a <b>Full Stack Developer</b>, passionate about Web & Mobile app development.
+      <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="20"> I'm a <b>Full Stack Enthusiast</b>, passionate about Web & Mobile app development.
     </p>
     <p>
       <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5704.gif" width="20"> Currently focusing on <b>MERN Stack & Flutter</b> development.
