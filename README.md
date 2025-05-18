@@ -49,7 +49,9 @@
     <p>
       <img src="https://user-images.githubusercontent.com/74038190/214644139-adb78e80-655b-4eb5-b661-400a9baec82c.gif" width="20"> Contact me: <b>vaibhavkumawat7605@gmail.com</b>
     </p>
-
+    <p>
+      <img src="https://user-images.githubusercontent.com/74038190/214644139-adb78e80-655b-4eb5-b661-400a9baec82c.gif" width="20"> Fun fact: <b>I debug with rubber ducks and drink way too much coffee ☕</b>
+    </p>
   </div>
 </div>
 
