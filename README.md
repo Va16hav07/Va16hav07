@@ -138,8 +138,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="95%">
   
-  <img width="95%" alt="Va16hav07's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Va16hav07&bg_color=000b1e&color=0099ff&line=0077B5&point=FFFFFF&area=true&area_color=003b7a&hide_border=true&radius=16" />
-</div>
+
 
 <div align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2px">
