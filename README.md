@@ -154,6 +154,8 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%" alt="Dev Quote"/>
 </div>
 
+  [![An image of @va16hav07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/va16hav07)](https://holopin.io/@va16hav07)
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
   
