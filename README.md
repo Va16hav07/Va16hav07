@@ -20,7 +20,7 @@
   <a href="https://github.com/Va16hav07"><img src="https://img.shields.io/badge/-GitHub-0077B5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </div>
 
-<h2 align="center">👁️‍🗨️ Profile Views</h2>
+<h2 align="center">👁️🗨️ Profile Views</h2>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Va16hav07&style=for-the-badge&color=0077B5" alt="Profile Views"/>
 </p>
