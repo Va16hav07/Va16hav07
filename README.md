@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/va16hav/"><img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=3ddc97" alt="LinkedIn"/></a>
   <a href="https://va16hav.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0f14?style=for-the-badge&logo=vercel&logoColor=3ddc97" alt="Portfolio"/></a>
-  <a href="https://twitter.com/Vaibh_av_07"><img src="https://img.shields.io/badge/X-0b0f14?style=for-the-badge&logo=x&logoColor=3ddc97" alt="X / Twitter"/></a>
+  <a href="https://twitter.com/Va1_6hav"><img src="https://img.shields.io/badge/X-0b0f14?style=for-the-badge&logo=x&logoColor=3ddc97" alt="X / Twitter"/></a>
   <a href="https://medium.com/@vaibhavkumawat7605"><img src="https://img.shields.io/badge/Medium-0b0f14?style=for-the-badge&logo=medium&logoColor=3ddc97" alt="Medium"/></a>
   <a href="mailto:vaibhavkumawat7605@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=3ddc97" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=Va16hav07&style=for-the-badge&color=0b0f14&label=VIEWS" alt="Profile views"/>
